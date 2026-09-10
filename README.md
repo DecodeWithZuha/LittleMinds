@@ -16,7 +16,7 @@ LittleMinds aims to bridge the gap between global child development research and
 An AI-powered platform that:
 - Suggests age-appropriate developmental activities (0-7 years) for mothers.
 - Uses visual AI to make abstract concepts accessible for young children.
-- Supports Urdu + English — multilingual.
+- Supports Urdu + English multilingual.
 - Follows responsible AI principles, AI guides but never replaces human interaction.
 - Backed by global child development research (WHO, Harvard, UNICEF, Montessori).
 
