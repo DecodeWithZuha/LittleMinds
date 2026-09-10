@@ -4,7 +4,7 @@
 ## Platform for Pakistani Families
 
 ### Vision
-LittleMinds aims to bridge the gap between global child development research and Pakistani families — making research-backed, age-appropriate learning accessible to every mother and child, regardless of background.
+LittleMinds aims to bridge the gap between global child development research and Pakistani families, making research-backed, age-appropriate learning accessible to every mother and child, regardless of background.
 
 ### Problem
 - Early childhood (0-7 years) is the most critical developmental period.
